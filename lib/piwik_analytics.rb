@@ -79,3 +79,5 @@ module PiwikAnalytics
     end
   end
 end
+
+require File.expand_path("../../rails/init", __FILE__)
